@@ -2,7 +2,7 @@
 # QuizApp
 
 Aplicación Web para hacer quizzes
-
+IDE: Apache Netbeans
 
 
 ## Demo
